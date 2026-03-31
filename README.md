@@ -35,6 +35,14 @@ Python 3.10+, Windows only.
 
 Leramot is fully open source and contributions are welcome. Bug fixes, new features, improved typing behaviour — open a PR or raise an issue and we'll go from there.
 
+## ⚠️ Legal Disclaimer ⚠️
+
+Leramot is intended for "personal productivity" purposes. However, this is not the only permitted use. Under the MIT License, you are free to use, modify, and distribute this software as you see fit. By using Leramot, **you accept full responsibility** for how it is used. 
+
+Leramot and its contributors assume no liability for any consequences, penalties, or disciplinary actions resulting from its use. 
+
+**By accessing or using this software, you agree to be bound by these terms. If you do not agree, do not use the software.**
+
 ## License
 
 MIT — do whatever you want with it.
