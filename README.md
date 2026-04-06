@@ -43,6 +43,13 @@ Leramot and its contributors assume no liability for any consequences, penalties
 
 **By accessing or using this software, you agree to be bound by these terms. If you do not agree, do not use the software.**
 
+## On macOS
+
+**Using a Mac?**
+Leramot is Windows-only. If you're on macOS, we recommend checking out *watchmetype* — a great open source alternative for macOS.
+
+[View watchmetype on GitHub](https://github.com/0xff-r4bbit/watchmetype)
+
 ## License
 
-MIT — do whatever you want with it.
+MIT — do whatever you want with it. Check out our website at https://leramot.foo.ng for more info. 
